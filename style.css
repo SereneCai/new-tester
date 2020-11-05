@@ -1,0 +1,21 @@
+body{
+    background-color:powderblue;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    border: dotted black 5px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#register
+{
+    border: black 1px;
+    background-color: aliceblue;
+}
